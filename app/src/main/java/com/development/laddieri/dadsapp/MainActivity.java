@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
         });
 
     }
-
+//Comment!
     private void playSound() {
         //Set random sound
         int[] sounds = {R.raw.sound1, R.raw.sound2, R.raw.sound3,R.raw.sound4,R.raw.sound5,R.raw.sound6,R.raw.sound7,R.raw.sound8,R.raw.sound9,R.raw.sound10,R.raw.sound11,R.raw.sound12,R.raw.sound13,R.raw.sound14};
